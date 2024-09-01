@@ -29,7 +29,7 @@ const Testimonials = () => {
                         <img src={who4} alt='who' />
                         <p><span>Binu K Jose</span></p>
                         <p><b>Computer Vision With Robotics</b></p>
-                        <p>Founder and Executive Chairman of Xeniabes Mechatronics and serves as CEO of Grapes Innotech</p>
+                        <p>Founder and Executive Chairman of Xeniabes Mechatronics | Serves as CEO of Grapes Innotech</p>
                         <p>Date: 28th September 2024</p>
                         <br/>
                         <a href='https://www.grapesinnotech.com/computervisionwithrobotics'>Grapesinnotech</a>
@@ -38,7 +38,7 @@ const Testimonials = () => {
                         <img src={who5} alt='who' />
                         <p><span>Rakesh Nair</span></p>
                         <p><b>Ideation</b></p>
-                        <p>Founder Fit4Life</p>
+                        <p>Founder Fit4Life | Co-Founder Heritaste LLP</p>
                         <p>Date: 28th September 2024</p>
 
                     </div>
