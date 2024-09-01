@@ -2,7 +2,7 @@ import React from 'react'
 import who1 from './images/who.jpeg'
 import who2 from './images/who.jpeg'
 import who3 from './images/who.jpeg'
-import who4 from './images/who.jpeg'
+import who4 from './images/speaker1.jpg'
 import who5 from './images/who.jpeg'
 import who6 from './images/who.jpeg'
 import './Testimonials.css'
@@ -39,10 +39,9 @@ const Testimonials = () => {
                 <div className='content'>
                     <div className='card'>
                         <img src={who4} alt='who' />
-                        <p>Description</p>
-                        <p><span>Speaker - 1</span></p>
-                        <p>About speaker</p>
-
+                        <p><span>Binu K Jose</span></p>
+                        <p><b>Computer Vision With Robotics</b></p>
+                        <p>Get ready to dive into the future of technology, as you embark on a hands-on workshop at Grapes Innotech, where you'll gain unparalleled expertise in computer vision and robotics.</p>
                     </div>
                     <div className='card'>
                         <img src={who5} alt='who' />
