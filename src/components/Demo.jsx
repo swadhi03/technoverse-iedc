@@ -74,7 +74,7 @@ const Demo = () => {
                 <div className='col-2'>
 
                     <p><strong>Date </strong>: September <br /><strong>Venue</strong> : FISAT Angamaly<br />Don’t miss out! Register now to secure your spot at this incredible event.</p>
-                    <h3>We can’t wait to see you there! Let’s create the future together at Techverso 2024.</h3><br/>
+                    <h3>We can’t wait to see you there! Let’s create the future together at Tecverso 2024.</h3><br/>
                     <p>
                         Mail:<a href="iedcfisat@gmail.com"> iedcfisat@gmail.com </a> <br />
                         VISHWAM SAJEEV: (+91)7034667695<br />
