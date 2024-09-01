@@ -2,7 +2,7 @@ import React from 'react'
 import who1 from './images/who.jpeg'
 import who2 from './images/who.jpeg'
 import who3 from './images/who.jpeg'
-import who4 from './images/speaker1.jpg'
+import who4 from './images/who.jpeg'
 import who5 from './images/who.jpeg'
 import who6 from './images/who.jpeg'
 import './Testimonials.css'
@@ -42,20 +42,25 @@ const Testimonials = () => {
                         <p><span>Binu K Jose</span></p>
                         <p><b>Computer Vision With Robotics</b></p>
                         <p>Get ready to dive into the future of technology, as you embark on a hands-on workshop at Grapes Innotech, where you'll gain unparalleled expertise in computer vision and robotics.</p>
+                        <p>Date: 28th September 2024</p>
+                        <a href='https://www.grapesinnotech.com/computervisionwithrobotics'>Grapesinnotech</a>
                     </div>
                     <div className='card'>
                         <img src={who5} alt='who' />
-                        <p>Description</p>
-                        <p><span>Speaker - 2</span></p>
-                        <p>About speaker</p>
+                        <p><span>Rakesh Nair</span></p>
+                        <p><b>Ideation</b></p>
+                        <p>Founder Fit4Life</p>
+                        <p>Date: 28th September 2024</p>
 
                     </div>
                     <div className='card'>
                         <img src={who6} alt='who' />
-                        <p>Description</p>
-                        <p><span>Speaker - 3</span></p>
-                        <p>About speaker</p>
-
+                        <p><span>Don C John</span></p>
+                        <p>Workshop on Generative AI</p> 
+                        <p>About speaker: Certified Professional Cloud Architect | Software Engineer at Qburst | TFUG Organizer | Nvidia DLI Educator</p>
+                        <p>Date: 29th September 2024</p>
+                        <br/>
+                        <a href="https://www.linkedin.com/in/doncjohn/?originalSubdomain=in">LinkedIn</a>
                     </div>
                 </div>
                 <h3>Cultural Events</h3>
