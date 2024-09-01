@@ -22,18 +22,6 @@ const Testimonials = () => {
                         <p><span>Speaker - 1</span></p>
                         <p>About speaker</p>
                     </div>
-                    <div className='card'>
-                        <img src={who2} alt='who' />
-                        <p>Description</p>
-                        <p><span>Speaker - 2</span></p>
-                        <p>About speaker</p>
-                    </div>
-                    <div className='card'>
-                        <img src={who3} alt='who' />
-                        <p>Description</p>
-                        <p><span>Speaker - 3</span></p>
-                        <p>About speaker</p>
-                    </div>
                 </div>
                 <h3>Workshops</h3>
                 <div className='content'>
@@ -41,8 +29,9 @@ const Testimonials = () => {
                         <img src={who4} alt='who' />
                         <p><span>Binu K Jose</span></p>
                         <p><b>Computer Vision With Robotics</b></p>
-                        <p>Get ready to dive into the future of technology, as you embark on a hands-on workshop at Grapes Innotech, where you'll gain unparalleled expertise in computer vision and robotics.</p>
+                        <p>Founder and Executive Chairman of Xeniabes Mechatronics and serves as CEO of Grapes Innotech</p>
                         <p>Date: 28th September 2024</p>
+                        <br/>
                         <a href='https://www.grapesinnotech.com/computervisionwithrobotics'>Grapesinnotech</a>
                     </div>
                     <div className='card'>
@@ -56,8 +45,8 @@ const Testimonials = () => {
                     <div className='card'>
                         <img src={who6} alt='who' />
                         <p><span>Don C John</span></p>
-                        <p>Workshop on Generative AI</p> 
-                        <p>About speaker: Certified Professional Cloud Architect | Software Engineer at Qburst | TFUG Organizer | Nvidia DLI Educator</p>
+                        <p><b>Generative AI</b></p> 
+                        <p>Certified Professional Cloud Architect | Software Engineer at Qburst | TFUG Organizer | Nvidia DLI Educator</p>
                         <p>Date: 29th September 2024</p>
                         <br/>
                         <a href="https://www.linkedin.com/in/doncjohn/?originalSubdomain=in">LinkedIn</a>
