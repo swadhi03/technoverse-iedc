@@ -27,7 +27,7 @@ const Testimonials = () => {
                 <div className='content'>
                     <div className='card'>
                         <img src={who4} alt='who' />
-                        <p><span>Binu K Jose</span></p>
+                        <p><strong><span>Binu K Jose</span></strong></p>
                         <p><b>Computer Vision With Robotics</b></p>
                         <p>Founder and Executive Chairman of Xeniabes Mechatronics | Serves as CEO of Grapes Innotech</p>
                         <p>Date: 28,29 September 2024</p>
@@ -36,7 +36,7 @@ const Testimonials = () => {
                     </div>
                     <div className='card'>
                         <img src={who5} alt='who' />
-                        <p><span>Rakesh Nair</span></p>
+                        <p><strong><span>Rakesh Nair</span></strong></p>
                         <p><b>Product Ideation</b></p>
                         <p>Founder Fit4Life | Co-Founder Heritaste LLP</p>
                         <p>Date: 28th September 2024</p>
@@ -44,7 +44,7 @@ const Testimonials = () => {
                     </div>
                     <div className='card'>
                         <img src={who6} alt='who' />
-                        <p><span>Don C John</span></p>
+                        <p><strong><span>Don C John</span></strong></p>
                         <p><b>Generative AI</b></p> 
                         <p>Certified Professional Cloud Architect | Software Engineer at Qburst | TFUG Organizer | Nvidia DLI Educator</p>
                         <p>Date: 29th September 2024</p>
