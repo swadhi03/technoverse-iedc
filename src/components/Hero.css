@@ -52,13 +52,13 @@
     width: 300px;
     background-color:#941111; 
     border: 1px solid var #941111;
-    color: #333;
+    color: #f6f1f1;
 
 }
 
 .hero .button:hover {
-    background-color: var(--secondary-dark);
-    border: 1px solid var(--secondary-dark);
+    background-color: #941111;
+    border: 1px solid #941111;
 }
 
 @media screen and (max-width:940px) {

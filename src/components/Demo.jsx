@@ -74,7 +74,7 @@ const Demo = () => {
                 <div className='col-2'>
 
                     <p><strong>Date </strong>: September 28,29 <br /><strong>Venue</strong> : FISAT Angamaly
-                    <p><strong>Food and accommodation provided</strong></p>
+                    <p><strong><u>Food and Accommodation provided</u></strong></p>
                     <br />Don’t miss out! Register now to secure your spot at this incredible event.</p>
                     <h3>We can’t wait to see you there! Let’s create the future together at Tecverso 2024.</h3><br/>
                     <p>
