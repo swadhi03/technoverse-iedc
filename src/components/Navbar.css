@@ -52,7 +52,7 @@
 @media screen and (max-width: 940px) {
     .header {
         height: 120px; /* Increase the height for mobile view */
-        background-color: rgba(247, 243, 243, 0.954);
+        background-color: rgba(247, 243, 243, 0.954)git;
     }
 
     .header .navbar {

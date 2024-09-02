@@ -53,6 +53,16 @@ const Testimonials = () => {
                         <br/>
                         <a href="https://www.linkedin.com/in/doncjohn/?originalSubdomain=in">LinkedIn</a>
                     </div>
+                   
+                    <div className='pack'>
+                        <h3>Participants can choose from any of the 4 available packages:</h3>
+                        <ul>
+                            <li><p>1. Major Workshop(28th & 29th) + Talk Session(28th) + Musical night(28th) [ 2 days ] - Rs. 700/-</p></li>
+                            <li><p>2. Two Workshops(28th & 29th) + Talk Session(28th) + Musical Night(28th) [ 2 days ] - Rs. 700/-</p></li>
+                            <li><p>3. One Workshop(28th) + Talk Session(28th) + Musical Night(on 28th) [1 day ] - Rs. 450/-</p></li>
+                            <li><p>4. One Workshop(29th) + Access to Talk Session(28th) and Musical Night(on 28th) - Rs. 450/-</p></li>
+                        </ul>
+                        </div>
                 </div>
                 <h3>Cultural Events</h3>
                 <p><strong>FISAT Moves</strong>: Experience the rhythm and energy of our very own dance troupe, FISAT Moves.Whether you love classical moves or high-energy beats, FISAT Moves promises to get your feet tapping and your heart racing.</p>
