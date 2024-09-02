@@ -87,3 +87,12 @@
     }
 }
 
+.testimonials h4 {
+    font-size: 1.6rem; /* Adjust font size for subheadings */
+    color: #8b0505; /* Slightly lighter gray for subheadings */
+    font-weight: 600; /* Semi-bold for emphasis */
+    margin-bottom: 0.5rem; /* Space below subheadings */
+    text-align: center; /* Center-align subheadings */
+}
+
+

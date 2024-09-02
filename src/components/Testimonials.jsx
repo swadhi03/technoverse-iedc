@@ -18,9 +18,9 @@ const Testimonials = () => {
                 <div className='content'>
                     <div className='card'>
                         <img src={who1} alt='who' />
-                        <p>Description</p>
-                        <p><span>Speaker - 1</span></p>
-                        <p>About speaker</p>
+                        <p></p>
+                        <p><span></span></p>
+                        <h4>COMING SOON!!!!</h4>
                     </div>
                 </div>
                 <h3>Workshops</h3>
