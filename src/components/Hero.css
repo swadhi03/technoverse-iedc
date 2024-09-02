@@ -25,11 +25,12 @@
     max-width: 1100px;
     margin: auto;
     padding: 1rem;
+    text-align: center; /* Center-align content for better mobile readability */
 }
 
 .hero .content p:first-child {
     font-style: italic;
-    font-size: .9rem;
+    font-size: 0.9rem;
 }
 
 .hero .content p:nth-child(2) {
@@ -41,7 +42,6 @@
     font-weight: 700;
 }
 
-
 .hero .content p:nth-child(4) {
     font-size: 2.2rem;
     font-style: italic;
@@ -50,10 +50,13 @@
 .hero .button {
     margin: 1rem 0;
     width: 300px;
-    background-color:#941111; 
-    border: 1px solid var #941111;
+    background-color: #941111;
+    border: #941111;
     color: #f6f1f1;
-
+    padding: 0.75rem; /* Add padding for better mobile touch experience */
+    text-align: center; /* Center the button text */
+    display: inline-block;
+    font-size: 1.2rem; /* Adjust font size for better readability */
 }
 
 .hero .button:hover {
@@ -61,12 +64,39 @@
     border: 1px solid #941111;
 }
 
-@media screen and (max-width:940px) {
+@media screen and (max-width: 940px) {
+    .hero .content p:nth-child(2) {
+        font-size: 1.5rem; /* Adjusted for smaller screens */
+    }
+
     .hero .content p:nth-child(3) {
-        font-size: 2.6rem;
+        font-size: 2.6rem; /* Smaller heading for mobile */
     }
 
     .hero .content p:nth-child(4) {
-        font-size: 1.6rem;
+        font-size: 1.6rem; /* Adjusted for smaller screens */
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .hero .content p:first-child {
+        font-size: 0.8rem; /* Further reduction for very small screens */
+    }
+
+    .hero .content p:nth-child(2) {
+        font-size: 1.2rem; /* Further reduction for very small screens */
+    }
+
+    .hero .content p:nth-child(3) {
+        font-size: 2rem; /* Further reduction for very small screens */
+    }
+
+    .hero .content p:nth-child(4) {
+        font-size: 1.4rem; /* Further reduction for very small screens */
+    }
+
+    .hero .button {
+        width: 80%; /* Make the button more responsive */
+        font-size: 1rem; /* Adjust font size for small screens */
     }
 }

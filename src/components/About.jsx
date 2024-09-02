@@ -1,10 +1,5 @@
 import React from 'react'
-import iedclogo from './images/iedclogo.png.png'
-import ksumlogo from './images/ksumlogo-removebg-preview.png'
-import iiclogo from './images/iiclogo.png'
-import iic2 from './images/iic2.png'
 import des from './images/des.png'
-
 
 import './About.css'
 
@@ -22,10 +17,7 @@ const About = () => {
                 </div>
                 
             </div>
-            <img src={iedclogo} alt='iedclogo' />
-                <img src={ksumlogo} alt='ksumlogo' />
-                <img src={iiclogo} alt='iiclogo' />
-                <img src={iic2} alt='iic2' />
+            
         </div>
     )
 }
