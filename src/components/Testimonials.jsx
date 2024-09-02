@@ -2,8 +2,8 @@ import React from 'react'
 import who1 from './images/who.jpeg'
 import who2 from './images/who.jpeg'
 import who3 from './images/who.jpeg'
-import who4 from './images/who.jpeg'
-import who5 from './images/who.jpeg'
+import who4 from './images/binu_k_jose.jpg'
+import who5 from './images/RAKESH NAIR.jpg'
 import who6 from './images/who.jpeg'
 import './Testimonials.css'
 import Hero from './Hero'
@@ -37,7 +37,7 @@ const Testimonials = () => {
                     <div className='card'>
                         <img src={who5} alt='who' />
                         <p><span>Rakesh Nair</span></p>
-                        <p><b>Ideation</b></p>
+                        <p><b>Product Ideation</b></p>
                         <p>Founder Fit4Life | Co-Founder Heritaste LLP</p>
                         <p>Date: 28th September 2024</p>
 
@@ -53,8 +53,8 @@ const Testimonials = () => {
                     </div>
                 </div>
                 <h3>Cultural Events</h3>
-                <p><strong>FISAT Moves </strong>: Experience the rhythm and energy of our very own dance troupe, FISAT Moves.Whether you love classical moves or high-energy beats, FISAT Moves promises to get your feet tapping and your heart racing.</p>
-                <p><strong>FISAT Band</strong>: The FISAT Band will take you on a musical journey with a mix of classic rock, soulful ballads, and energetic pop hits. Known for their electrifying performances, the band members bring their unique talents together to create an unforgettable experience. With powerful vocals, thrilling guitar solos, and infectious rhythms, the FISAT Band is set to be the highlight of the night, delivering tunes that will resonate with every music lover.
+                <p><strong>FISAT Moves</strong>: Experience the rhythm and energy of our very own dance troupe, FISAT Moves.Whether you love classical moves or high-energy beats, FISAT Moves promises to get your feet tapping and your heart racing.</p>
+                <p><strong>FISAT Music Cult</strong>: The FISAT Band will take you on a musical journey with a mix of classic rock, soulful ballads, and energetic pop hits. Known for their electrifying performances, the band members bring their unique talents together to create an unforgettable experience. With powerful vocals, thrilling guitar solos, and infectious rhythms, the FISAT Band is set to be the highlight of the night, delivering tunes that will resonate with every music lover.
 
                 </p>
             </div>
