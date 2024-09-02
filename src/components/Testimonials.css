@@ -1,6 +1,6 @@
 .testimonials {
     width: 100%;
-    background-image: url('https://img.freepik.com/premium-photo/vibrant-gradient-backgrounds-trending-choice-modern-graphic-design_953733-41473.jpg?ga=GA1.1.1557977011.1717646115&semt=ais_hybrid');
+    background-image: url('https://images.wallpaperscraft.com/image/single/texture_black_stone_154835_800x1200.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;  
     background-size: cover;
@@ -17,10 +17,11 @@
     font-size: 3rem;
     text-align: center;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    color: #fbf9f9f6;
 }
 .testimonials h3 {
     font-size: 2rem; /* Adjust font size for subheadings */
-    color: #190f0f; /* Slightly lighter gray for subheadings */
+    color: #f7f1f1; /* Slightly lighter gray for subheadings */
     font-weight: 600; /* Semi-bold for emphasis */
     margin-bottom: 0.5rem; /* Space below subheadings */
     text-align: center; /* Center-align subheadings */
@@ -28,7 +29,7 @@
 
 .testimonials p {
     font-size: 1rem; /* Adjust font size for readability */
-    color: #0f0101; /* Medium gray for better readability */
+    color: #fcfafa; /* Medium gray for better readability */
     line-height: 1.6; /* Increase line-height for better readability */
     margin: 0 0 1rem; /* Space below paragraphs */
     text-align: center; /* Center-align paragraphs */
@@ -46,7 +47,7 @@
 .testimonials .card {
     border: 1px solid #eee;
     border-radius: 8px;
-    box-shadow: 0 3px 10px rgb(0,0,0,.2);
+    box-shadow: 0 3px 10px rgba(242, 240, 240, 0.2);
     padding: 1rem;
 }
 
@@ -59,13 +60,13 @@
 
 
 .testimonials .card p {
-    color: #0a0101;
+    color: #f6f0f0;
     font-size: 1.1rem;
     margin: 12px;
 }
 
 .testimonials .card span {
-    color: #03310b;
+    color: #740d0d;
     font-size: 1.5rem;
     font-weight: 700;
 }

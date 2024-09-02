@@ -20,6 +20,7 @@
 .demo .col-1 p:nth-child(1) {
     font-size: 3rem;
     font-style: italic;
+    color: #fbf9f9f6;
 }
 
 .demo .col-1 p:nth-child(2) {
@@ -36,17 +37,18 @@
 
 .demo .col-2 {
     margin: auto;
+    color: #fbf9f9f6;
 }
 
 .col-2 p {
     line-height: 1.6; /* Adjust the value as needed (e.g., 1.5, 1.6, 1.8, etc.) */
     font-size: 1.1rem; /* Optional: Adjust the font size for better readability */
-    color: #070101; /* Optional: Ensure the text color is easy to read */
+    color: #fbf9f9; /* Optional: Ensure the text color is easy to read */
     margin-bottom: 1rem; /* Optional: Add some spacing after the paragraph */
 }
 
 .col-2 p strong {
-    color: #000; /* Optional: Bold text in a strong tag can have a different color for emphasis */
+    color: #f4f1f1; /* Optional: Bold text in a strong tag can have a different color for emphasis */
 }
 @media screen and (max-width: 940px) {
     .demo .container {
@@ -66,7 +68,7 @@ form {
     padding: 20px;
     border-radius: 8px;
     background-color: #f9f9f9;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 4px 8px rgba(250, 247, 247, 0.95);
     margin-left: 0%;
 }
 

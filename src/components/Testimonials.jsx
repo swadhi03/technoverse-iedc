@@ -4,7 +4,7 @@ import who2 from './images/who.jpeg'
 import who3 from './images/who.jpeg'
 import who4 from './images/binu_k_jose.jpg'
 import who5 from './images/RAKESH NAIR.jpg'
-import who6 from './images/who.jpeg'
+import who6 from './images/DONCJOHN.png'
 import './Testimonials.css'
 import Hero from './Hero'
 
@@ -49,12 +49,14 @@ const Testimonials = () => {
                         <p>Certified Professional Cloud Architect | Software Engineer at Qburst | TFUG Organizer | Nvidia DLI Educator</p>
                         <p>Date: 29th September 2024</p>
                         <br/>
+                        <br/>
+                        <br/>
                         <a href="https://www.linkedin.com/in/doncjohn/?originalSubdomain=in">LinkedIn</a>
                     </div>
                 </div>
                 <h3>Cultural Events</h3>
                 <p><strong>FISAT Moves</strong>: Experience the rhythm and energy of our very own dance troupe, FISAT Moves.Whether you love classical moves or high-energy beats, FISAT Moves promises to get your feet tapping and your heart racing.</p>
-                <p><strong>FISAT Music Cult</strong>: The FISAT Band will take you on a musical journey with a mix of classic rock, soulful ballads, and energetic pop hits. Known for their electrifying performances, the band members bring their unique talents together to create an unforgettable experience. With powerful vocals, thrilling guitar solos, and infectious rhythms, the FISAT Band is set to be the highlight of the night, delivering tunes that will resonate with every music lover.
+                <p><strong>FISAT Music Cult</strong>: The FISAT Music Cult will take you on a musical journey with a mix of classic rock, soulful ballads, and energetic pop hits. Known for their electrifying performances, the band members bring their unique talents together to create an unforgettable experience. With powerful vocals, thrilling guitar solos, and infectious rhythms, the FISAT Band is set to be the highlight of the night, delivering tunes that will resonate with every music lover.
 
                 </p>
             </div>

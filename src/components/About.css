@@ -1,5 +1,5 @@
 .about {
-    background-image: url('https://img.freepik.com/premium-photo/vibrant-gradient-backgrounds-trending-choice-modern-graphic-design_953733-41473.jpg?ga=GA1.1.1557977011.1717646115&semt=ais_hybrid');
+    background-image: url('https://images.wallpaperscraft.com/image/single/texture_black_stone_154835_800x1200.jpg');
     margin: auto;
     padding: 8rem 1rem 0 1rem;
     width: 100%;
@@ -9,17 +9,19 @@
 }
 .about .line
 {
-    color: #0000;
+    color: #fbf9f9f6;
 }
 .about .container {
     width: 1240px;
     margin: auto;
     display: grid;
     grid-template-columns: repeat(2, 1fr);
+
 }
 
 .about h2 {
     font-size: 3rem;
+    color: #fbf9f9f6;
 }
 
 .about .col-2 {

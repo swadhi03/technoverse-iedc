@@ -50,9 +50,10 @@
 .hero .button {
     margin: 1rem 0;
     width: 300px;
-    background-color: var(--secondary-color);
-    border: 1px solid var(--secondary-color);
+    background-color:#941111; 
+    border: 1px solid var #941111;
     color: #333;
+
 }
 
 .hero .button:hover {
