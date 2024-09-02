@@ -30,7 +30,7 @@ const Testimonials = () => {
                         <p><span>Binu K Jose</span></p>
                         <p><b>Computer Vision With Robotics</b></p>
                         <p>Founder and Executive Chairman of Xeniabes Mechatronics | Serves as CEO of Grapes Innotech</p>
-                        <p>Date: 28th September 2024</p>
+                        <p>Date: 28,29 September 2024</p>
                         <br/>
                         <a href='https://www.grapesinnotech.com/computervisionwithrobotics'>Grapesinnotech</a>
                     </div>
