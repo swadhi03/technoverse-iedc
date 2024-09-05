@@ -67,7 +67,7 @@ const Testimonials = () => {
                 </div>
                 <h3>Cultural Events</h3>
                 <p><strong>FISAT Moves</strong>: Experience the rhythm and energy of our very own dance troupe, FISAT Moves.Whether you love classical moves or high-energy beats, FISAT Moves promises to get your feet tapping and your heart racing.</p>
-                <p><strong>FISAT Music Cult</strong>: The FISAT Music Cult will take you on a musical journey with a mix of classic rock, soulful ballads, and energetic pop hits. Known for their electrifying performances, the band members bring their unique talents together to create an unforgettable experience. With powerful vocals, thrilling guitar solos, and infectious rhythms, the FISAT Band is set to be the highlight of the night, delivering tunes that will resonate with every music lover.
+                <p><strong>FISAT Music Cult</strong>: The FISAT Music Cult will take you on a musical journey with a mix of classic rock, soulful ballads, and energetic pop hits. Known for their electrifying performances, the band members bring their unique talents together to create an unforgettable experience. With powerful vocals, thrilling guitar solos, and infectious rhythms, the FISAT Music Cult is set to be the highlight of the night, delivering tunes that will resonate with every music lover.
 
                 </p>
             </div>
