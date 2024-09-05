@@ -29,8 +29,9 @@ const Testimonials = () => {
                         <img src={who4} alt='who' />
                         <p><strong><span>Binu K Jose</span></strong></p>
                         <p><b>Computer Vision With Robotics</b></p>
-                        <p>Founder and Executive Chairman of Xeniabes Mechatronics | Serves as CEO of Grapes Innotech</p>
+                        <p>Founder at ZEBJUS LLP | Serves as CEO of Grapes Innotech</p>
                         <p>Date: 28,29 September 2024</p>
+                        <br/>
                         <br/>
                         <a href='https://www.grapesinnotech.com/computervisionwithrobotics'>Grapesinnotech</a>
                     </div>
