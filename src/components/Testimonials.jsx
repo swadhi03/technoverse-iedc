@@ -14,12 +14,12 @@ const Testimonials = () => {
             <div className='container'>
                 <h2>Events</h2>
                 <span className='line'></span>
-                <h3>Talk Sessions</h3>
+                <h3>Chief Guest</h3>
                 <div className='content'>
                     <div className='card'>
                         <img src={who1} alt='who' />
                         <p><strong><span>Lijeesh Kumar</span></strong></p>
-                        <p><b>Chief Guest and Interactive Session</b></p>
+                        <p><b></b></p>
                         <p><b>Director of Xylem Learning</b></p>
                     </div>
                 </div>
