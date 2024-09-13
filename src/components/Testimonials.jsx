@@ -1,5 +1,5 @@
 import React from 'react'
-import who1 from './images/who.jpeg'
+import who1 from './images/lijeesh.jpg'
 import who2 from './images/who.jpeg'
 import who3 from './images/who.jpeg'
 import who4 from './images/binu_k_jose.jpg'
@@ -18,9 +18,9 @@ const Testimonials = () => {
                 <div className='content'>
                     <div className='card'>
                         <img src={who1} alt='who' />
-                        <p></p>
-                        <p><span></span></p>
-                        <h4>COMING SOON!!!!</h4>
+                        <p><strong><span>Lijeesh Kumar</span></strong></p>
+                        <p><b>Chief Guest and Interactive Session</b></p>
+                        <p><b>Director of Xylem Learning</b></p>
                     </div>
                 </div>
                 <h3>Workshops</h3>
@@ -29,7 +29,7 @@ const Testimonials = () => {
                         <img src={who4} alt='who' />
                         <p><strong><span>Binu K Jose</span></strong></p>
                         <p><b>Computer Vision With Robotics</b></p>
-                        <p>Founder at ZEBJUS LLP | Serves as CEO of Grapes Innotech</p>
+                        <p><b>Computer Vision With Robotics</b></p>
                         <p>Date: 28,29 September 2024</p>
                         <br/>
                         <br/>
