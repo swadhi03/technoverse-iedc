@@ -58,7 +58,7 @@ const Testimonials = () => {
                     <div className='pack'>
                         <h3>Participants can choose from any of the 4 available packages:</h3>
                         <ul>
-                            <p><strong>EARLY BIRD REGISTRATION CLOSES ON SEPTEMBER-15</strong></p>
+                            <p><strong></strong></p>
                             <li><p>1. Major Workshop(28th & 29th) + Talk Session(28th) + Musical night(28th) [ 2 days ] - Rs. 700/-</p></li>
                             <li><p>2. Two Workshops(28th & 29th) + Talk Session(28th) + Musical Night(28th) [ 2 days ] - Rs. 700/-</p></li>
                             <li><p>3. One Workshop(28th) + Talk Session(28th) + Musical Night(on 28th) [1 day ] - Rs. 450/-</p></li>
