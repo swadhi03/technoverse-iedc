@@ -58,7 +58,7 @@ const Testimonials = () => {
                         <img src={who3} alt='who' />
                         <p><strong><span>Polwin Davis and Team Xtrocity</span></strong></p>
                         <p><b>AR/VR Workshop</b></p> 
-                        <p>Founder Xtrocity</p>
+                        
                         <p>Date: 29th September 2024</p>
                         <a href="https://www.linkedin.com/in/polwin-davis-29b1621b1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">LinkedIn</a>
                         <p><strong><i><u>Bonus Workshop</u></i></strong></p>
