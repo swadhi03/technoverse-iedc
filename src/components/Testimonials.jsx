@@ -1,7 +1,7 @@
 import React from 'react'
 import who1 from './images/lijeesh.jpg'
 import who2 from './images/who.jpeg'
-import who3 from './images/who.jpeg'
+import who3 from './images/polwin.jpg'
 import who4 from './images/binu_k_jose.jpg'
 import who5 from './images/RAKESH NAIR.jpg'
 import who6 from './images/DONCJOHN.png'
@@ -53,11 +53,27 @@ const Testimonials = () => {
                         <br/>
                         <br/>
                         <a href="https://www.linkedin.com/in/doncjohn/?originalSubdomain=in">LinkedIn</a>
-                    </div>
-                   
-                    <div className='pack'>
-                        <h3>Participants can choose from any of the 4 available packages:</h3>
+                    </div><br/>
+                    <div className='card'>
+                        <img src={who3} alt='who' />
+                        <p><strong><span>Polwin Davis and Team Xtrocity</span></strong></p>
+                        <p><b>AR/VR Workshop</b></p> 
+                        <p>Founder Xtrocity</p>
+                        <p>Date: 29th September 2024</p>
+                        <a href="https://www.linkedin.com/in/polwin-davis-29b1621b1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">LinkedIn</a>
+                        <p><strong><i><u>Bonus Workshop</u></i></strong></p>
+                     </div>
+            
+            
+
+        
+
+
+
+                    <br/><div className='pack'>
+                        
                         <ul>
+                        <h3>Participants can choose from any of the 4 available packages:</h3>
                             <p><strong></strong></p>
                             <li><p>1. Major Workshop(28th & 29th) + Talk Session(28th) + Musical night(28th) [ 2 days ] - Rs. 700/-</p></li>
                             <li><p>2. Two Workshops(28th & 29th) + Talk Session(28th) + Musical Night(28th) [ 2 days ] - Rs. 700/-</p></li>
@@ -65,7 +81,7 @@ const Testimonials = () => {
                             <li><p>4. One Workshop(29th) + Access to Talk Session(28th) and Musical Night(on 28th) - Rs. 450/-</p></li>
                         </ul>
                         </div>
-                </div>
+                </div><br/>
                 <h3>Cultural Events</h3>
                 <p><strong>FISAT Moves</strong>: Experience the rhythm and energy of our very own dance troupe, FISAT Moves.Whether you love classical moves or high-energy beats, FISAT Moves promises to get your feet tapping and your heart racing.</p>
                 <p><strong>FISAT Music Cult</strong>: The FISAT Music Cult will take you on a musical journey with a mix of classic rock, soulful ballads, and energetic pop hits. Known for their electrifying performances, the band members bring their unique talents together to create an unforgettable experience. With powerful vocals, thrilling guitar solos, and infectious rhythms, the FISAT Music Cult is set to be the highlight of the night, delivering tunes that will resonate with every music lover.

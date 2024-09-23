@@ -4,6 +4,7 @@
     background-repeat: no-repeat;
     background-attachment: fixed;  
     background-size: cover;
+    
 
 }
 
@@ -86,6 +87,10 @@
         max-width: 100%;
         margin: 1rem;
     }
+    .testimonials .card1 {
+        max-width: 100%;
+        margin: 1rem;
+    }
 }
 
 .testimonials h4 {
@@ -95,5 +100,20 @@
     margin-bottom: 0.5rem; /* Space below subheadings */
     text-align: center; /* Center-align subheadings */
 }
-
-
+.testimonials .card1 {
+    border: 1px solid #eee;
+    border-radius: 8px;
+    box-shadow: 0 3px 10px rgba(242, 240, 240, 0.2);
+    padding: 1rem;
+    
+}
+.testimonials .card1 p {
+    color: #f6f0f0;
+    font-size: 1.1rem;
+    margin: 12px;
+}
+.testimonials .card1 span {
+    color: #e70a0a;
+    font-size: 1.5rem;
+    font-weight: 700;
+}
