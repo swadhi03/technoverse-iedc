@@ -29,7 +29,7 @@ const Testimonials = () => {
                         <img src={who4} alt='who' />
                         <p><strong><span>Binu K Jose</span></strong></p>
                         <p><b>Computer Vision With Robotics</b></p>
-                        <p><b>Computer Vision With Robotics</b></p>
+                        
                         <p>Date: 28,29 September 2024</p>
                         <br/>
                         <br/>
