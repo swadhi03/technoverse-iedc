@@ -117,3 +117,15 @@
     font-size: 1.5rem;
     font-weight: 700;
 }
+.testimonials .card button
+{
+    align-items: center;
+    color: #eee;
+    background-color: #eee;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-left: 20%;
+    padding-right: 20%;
+    align-content: center;
+    text-align: center;
+    margin-left: 15%;
+}

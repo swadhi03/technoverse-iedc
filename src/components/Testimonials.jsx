@@ -69,6 +69,7 @@ const Testimonials = () => {
                         <p>Date: 28th September 2024</p>
                         <p>UI/UX Designer, ALGATA</p>
                         <p><strong><i><u>Bonus Workshop</u></i></strong></p>
+                        <centre><button><a href="https://forms.gle/3To38ErAMPbx6VQn7">REGISTER NOW</a></button></centre>
                      </div>
             
             
