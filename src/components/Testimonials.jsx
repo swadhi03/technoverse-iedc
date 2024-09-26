@@ -1,6 +1,6 @@
 import React from 'react'
 import who1 from './images/lijeesh.jpg'
-import who2 from './images/who.jpeg'
+import who2 from './images/godwin.jpg'
 import who3 from './images/polwin.jpg'
 import who4 from './images/binu_k_jose.jpg'
 import who5 from './images/RAKESH NAIR.jpg'
@@ -58,9 +58,16 @@ const Testimonials = () => {
                         <img src={who3} alt='who' />
                         <p><strong><span>Polwin Davis and Team Xtrocity</span></strong></p>
                         <p><b>AR/VR Workshop</b></p> 
-                        
                         <p>Date: 29th September 2024</p>
                         <a href="https://www.linkedin.com/in/polwin-davis-29b1621b1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">LinkedIn</a>
+                        <p><strong><i><u>Bonus Workshop</u></i></strong></p>
+                     </div>
+                     <div className='card'>
+                        <img src={who2} alt='who' />
+                        <p><strong><span>Godwin Kunjumon</span></strong></p>
+                        <p><b>UI/UX Workshop</b></p> 
+                        <p>Date: 28th September 2024</p>
+                        <p>UI/UX Designer, ALGATA</p>
                         <p><strong><i><u>Bonus Workshop</u></i></strong></p>
                      </div>
             
