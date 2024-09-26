@@ -84,6 +84,7 @@ const Demo = () => {
                         NANDAKISHOR K: (+91)7594993674
                     </p>
                     <br/>
+                    <p><strong>Event schedules may vary from the ones shown above.IEDC FISAT reserves all rights to make changes to scheduling of the event.</strong>s</p>
                 </div>
             </div>
         </div>
